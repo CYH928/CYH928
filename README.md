@@ -5,11 +5,11 @@ I am a hardworking, studious, proactive and polite person who is currently study
 
 ### Education
 > **Hong Kong Institute of Information Technology (HKIIT) at IVE(Lee Wai Lee)**\
-  `Higher Diploma in Cloud and Data Centre Administration`
+  `Higher Diploma in Cloud and Data Centre Administration`\
   <sub>2024 - _Present_</sub>
 
 > **Hong Kong Institute of Vocational Education (Tsing Yi)**\
-  `Diploma of Foundation Studies (Distinction)`
+  `Diploma of Foundation Studies (Distinction)`\
   <sub>2023 - 2024</sub>
 
 
@@ -23,13 +23,13 @@ I am a hardworking, studious, proactive and polite person who is currently study
 
 
 ### Awards
-> **Outstanding Student Project Award of VTC 2023/24**\
-  Issued by `Student Development Discipline - Vocational Training Council`
-  <sub>February 16, 2025</sub>
+> [**Outstanding Student Project Award of VTC 2023/24**](https://www.linkedin.com/in/yukhon/details/honors/1740799456145/single-media-viewer/?profileId=ACoAAFMCWq0BM9gCBeoUrGKzAx3ud9ZHzzqQu-I)\
+  Issued by `Student Development Discipline - Vocational Training Council`\
+  <sup>February 16, 2025</sup>
 
-> **Youth Arch Student Improvement Award**\
-  Issued by `Youth Arch Foundation`
-  <sub>October 2019</sub>
+> [**Youth Arch Student Improvement Award**](https://www.linkedin.com/in/yukhon/details/honors/1740759120836/single-media-viewer/?profileId=ACoAAFMCWq0BM9gCBeoUrGKzAx3ud9ZHzzqQu-I)\
+  Issued by `Youth Arch Foundation`\
+  <sup>October 2019</sup>
 
 
-[^1]: CHANG Yuk Hon (aka YKHN C.)
+[^1]: CHANG Yuk Hon, aka YKHN C.
