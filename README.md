@@ -14,12 +14,12 @@ I am a hardworking, studious, proactive and polite person who is currently study
 
 
 ### Certifications
-- [**Global AI Bootcamp 2025 - Hong Kong**](https://globalai.community/badges/13f76ea9-531f-439a-8a13-594c6ef570a8/)
-  <sub>March 5, 2025</sub>
-- [**AWS Academy Graduate - AWS Academy Cloud Foundations**](https://www.credly.com/badges/35214107-f08c-4094-bff0-bb3ce14a0166/linked_in_profile)
-  <sub>February 27, 2025</sub>
-- [**AWSome Day**](https://www.linkedin.com/in/yukhon/details/certifications/1738909609383/single-media-viewer/?profileId=ACoAAFMCWq0BM9gCBeoUrGKzAx3ud9ZHzzqQu-I)
-  <sub>January 17, 2025</sub>
+- [**Global AI Bootcamp 2025 - Hong Kong**](https://globalai.community/badges/13f76ea9-531f-439a-8a13-594c6ef570a8/)\
+  <sup>March 5, 2025</sup>
+- [**AWS Academy Graduate - AWS Academy Cloud Foundations**](https://www.credly.com/badges/35214107-f08c-4094-bff0-bb3ce14a0166/linked_in_profile)\
+  <sup>February 27, 2025</sup>
+- [**AWSome Day**](https://www.linkedin.com/in/yukhon/details/certifications/1738909609383/single-media-viewer/?profileId=ACoAAFMCWq0BM9gCBeoUrGKzAx3ud9ZHzzqQu-I)\
+  <sup>January 17, 2025</sup>
 
 
 ### Awards
