@@ -32,4 +32,4 @@ I am a hardworking, studious, proactive and polite person who is currently study
   <sup>October 2019</sup>
 
 
-[^1]: He full name is CHANG Yuk Hon, aka `YKHN C.` / `yukhon`
+[^1]: His full name is CHANG Yuk Hon, aka YKHN C. / yukhon
