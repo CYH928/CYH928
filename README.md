@@ -14,9 +14,11 @@ I am a hardworking, studious, proactive and polite person who is currently study
 
 
 ### Certifications
+- [**AWS Academy Graduate - AWS Academy Cloud Architecting**](https://www.credly.com/badges/1105bf83-dacd-42e9-9dc5-6df2703c23d2/public_url)\
+  <sup>March 21, 2025</sup>
 - [**Global AI Bootcamp 2025 - Hong Kong**](https://globalai.community/badges/13f76ea9-531f-439a-8a13-594c6ef570a8/)\
   <sup>March 5, 2025</sup>
-- [**AWS Academy Graduate - AWS Academy Cloud Foundations**](https://www.credly.com/badges/35214107-f08c-4094-bff0-bb3ce14a0166/linked_in_profile)\
+- [**AWS Academy Graduate - AWS Academy Cloud Foundations**](https://www.credly.com/badges/35214107-f08c-4094-bff0-bb3ce14a0166/public_url)\
   <sup>February 27, 2025</sup>
 - [**AWSome Day**](https://www.linkedin.com/in/yukhon/details/certifications/1738909609383/single-media-viewer/?profileId=ACoAAFMCWq0BM9gCBeoUrGKzAx3ud9ZHzzqQu-I)\
   <sup>January 17, 2025</sup>
@@ -25,11 +27,11 @@ I am a hardworking, studious, proactive and polite person who is currently study
 ### Awards
 > [**Outstanding Student Project Award of VTC 2023/24**](https://www.linkedin.com/in/yukhon/details/honors/1740799456145/single-media-viewer/?profileId=ACoAAFMCWq0BM9gCBeoUrGKzAx3ud9ZHzzqQu-I)\
   Issued by `Student Development Discipline - Vocational Training Council`\
-  <sup>February 16, 2025</sup>
+  <sub>February 16, 2025</sub>
 
 > [**Youth Arch Student Improvement Award**](https://www.linkedin.com/in/yukhon/details/honors/1740759120836/single-media-viewer/?profileId=ACoAAFMCWq0BM9gCBeoUrGKzAx3ud9ZHzzqQu-I)\
   Issued by `Youth Arch Foundation`\
-  <sup>October 2019</sup>
+  <sub>October 2019</sub>
 
 
 [^1]: His full name is CHANG Yuk Hon, aka YKHN C. / yukhon
