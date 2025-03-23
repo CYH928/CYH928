@@ -3,14 +3,7 @@ I am a hardworking, studious, proactive and polite person who is currently study
 
 ---
 
-### Education
-> **Hong Kong Institute of Information Technology (HKIIT) at IVE(Lee Wai Lee)**\
-  `Higher Diploma in Cloud and Data Centre Administration`\
-  <sub>2024 - _Present_</sub>
-
-> **Hong Kong Institute of Vocational Education (Tsing Yi)**\
-  `Diploma of Foundation Studies (Distinction)`\
-  <sub>2023 - 2024</sub>
+### Skills
 
 
 ### Certifications
@@ -22,6 +15,16 @@ I am a hardworking, studious, proactive and polite person who is currently study
   <sup>February 27, 2025</sup>
 - [**AWSome Day**](https://www.linkedin.com/in/yukhon/details/certifications/1738909609383/single-media-viewer/?profileId=ACoAAFMCWq0BM9gCBeoUrGKzAx3ud9ZHzzqQu-I)\
   <sup>January 17, 2025</sup>
+
+
+### Education
+> **Hong Kong Institute of Information Technology (HKIIT) at IVE(Lee Wai Lee)**\
+  `Higher Diploma in Cloud and Data Centre Administration`\
+  <sub>2024 - _Present_</sub>
+
+> **Hong Kong Institute of Vocational Education (Tsing Yi)**\
+  `Diploma of Foundation Studies (Distinction)`\
+  <sub>2023 - 2024</sub>
 
 
 ### Awards
