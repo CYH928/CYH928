@@ -4,7 +4,7 @@ I am a hardworking, studious, proactive and polite person who is currently study
 ---
 
 ### Skills
-- Cloud Computing
+- Cloud Computing (AWS, Alibaba Cloud)
 - Python
 - Full-Stack Web Development 
 
