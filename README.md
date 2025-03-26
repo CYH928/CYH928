@@ -4,6 +4,9 @@ I am a hardworking, studious, proactive and polite person who is currently study
 ---
 
 ### Skills
+- Cloud Computing
+- Python
+- Full-Stack Web Development 
 
 
 ### Certifications
