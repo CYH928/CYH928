@@ -1,5 +1,5 @@
 ## Welcome to YKHN C.'s[^1] GitHub
-I am a hardworking, studious, proactive and polite person who is currently studying at the HKIIT at IVE(LWL)'s Higher Diploma in Cloud and Data Centre Administration, majoring in AWS, Linux, SQL, etc. I often use my team leadership skills to lead our team, and I have also learned the skills to communicate with others. I have actively participated in different competitions and activities, and have won awards. In the future, I would like to obtain more certifications in the industries so that I can learn more different skills.
+I am a hardworking, studious, proactive, and polite person currently studying at the HKIIT at IVE(LWL)'s Higher Diploma in Cloud and Data Centre Administration, majoring in AWS, Linux, SQL, etc. I often use my team leadership skills to lead our team, and I have also learned how to communicate with others. I have actively participated in different competitions and activities, and have won awards. In the future, I would like to obtain more certifications in the industry so that I can learn more different skills.
 
 ---
 
@@ -24,7 +24,7 @@ I am a hardworking, studious, proactive and polite person who is currently study
 > **Hong Kong Institute of Information Technology (HKIIT) at IVE(Lee Wai Lee)**\
   `Higher Diploma in Cloud and Data Centre Administration`\
   <sub>2024 - _Present_</sub>
-
+  
 > **Hong Kong Institute of Vocational Education (Tsing Yi)**\
   `Diploma of Foundation Studies (Distinction)`\
   <sub>2023 - 2024</sub>
