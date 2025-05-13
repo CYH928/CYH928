@@ -8,6 +8,7 @@ I am a hardworking, studious, proactive, and polite person currently studying at
 - Team Leadership
 - Python (ft. Django & Flask)
 - Full-Stack Web Development
+- PHP
 
 
 ### Certifications
