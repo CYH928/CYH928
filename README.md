@@ -7,7 +7,7 @@ I am a hardworking, studious, proactive, and polite person currently studying at
 - Cloud Computing (AWS, Alibaba Cloud)
 - Team Leadership
 - Python (ft. Django & Flask)
-- Full-Stack Web Development
+- Full-Stack Web Development (HTML, CSS, JS, etc.)
 - PHP
 
 
