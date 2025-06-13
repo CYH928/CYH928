@@ -5,7 +5,7 @@ I am a hardworking, studious, proactive, and polite person currently studying at
 
 ### Skills
 - Cloud Computing (AWS, Google Cloud, Alibaba Cloud, etc.)
-- Team Leadership
+- Teamwork (Leadership)
 - Python (ft. Django & Flask)
 - Full-Stack Web Development (HTML, CSS, JS, etc.)
 - PHP
