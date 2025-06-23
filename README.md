@@ -22,16 +22,6 @@ I am a hardworking, studious, proactive, and polite person currently studying at
   <sup>January 17, 2025</sup>
 
 
-### Education
-> **Hong Kong Institute of Information Technology (HKIIT) at IVE(Lee Wai Lee)**\
-  `Higher Diploma in Cloud and Data Centre Administration`\
-  <sub>2024 - _Present_</sub>
-  
-> **Hong Kong Institute of Vocational Education (Tsing Yi)**\
-  `Diploma of Foundation Studies (Distinction)`\
-  <sub>2023 - 2024</sub>
-
-
 ### Awards
 > [**Outstanding Student Project Award of VTC 2023/24**](https://www.linkedin.com/in/yukhon/details/honors/1740799456145/single-media-viewer/?profileId=ACoAAFMCWq0BM9gCBeoUrGKzAx3ud9ZHzzqQu-I)\
   Issued by `Student Development Discipline - Vocational Training Council`\
