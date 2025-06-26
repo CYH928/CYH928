@@ -1,5 +1,5 @@
 ## Welcome to YKHN C.'s[^1] GitHub
-I am a hardworking, studious, proactive, and polite person currently studying at the HKIIT at IVE(LWL)'s Higher Diploma in Cloud and Data Centre Administration, majoring in AWS, Linux, SQL, etc. I often use my team leadership skills to lead our team, and I have also learned how to communicate with others. I have actively participated in different competitions and activities, and have won awards. In the future, I would like to obtain more certifications in the industry so that I can learn more different skills.
+Dedicated and industrious Higher Diploma student in Cloud and Data Centre Administration at the Hong Kong Institute of Information Technology at IVE (Lee Wai Lee), with a keen focus on AWS, GCP, System Administration, and SQL Database Management. Cultivated leadership and communication skills through collaborative projects and participation in award-winning competitions. Enthusiastic to harness technical expertise and a diligent mindset in an IT environment, wholeheartedly committed to continuous learning through industry certifications.
 
 ---
 
